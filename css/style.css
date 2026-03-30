@@ -1,0 +1,9 @@
+
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
+}
